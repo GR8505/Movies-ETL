@@ -42,4 +42,9 @@
 ---------------------------------------------------------------------------------------------------
 ![](https://github.com/GR8505/Movies-ETL/blob/master/Images/Transformation3.png)
 
+---------------------------------------------------------------------------------------------------
+> Used Regular Expressions (Regex) to perform some cleaning of the data
+--------------------------------------------------------------------------------------------------
+![](https://github.com/GR8505/Movies-ETL/blob/master/Images/Transformation4.png)
+
 
