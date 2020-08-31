@@ -2,14 +2,14 @@
 -----------------------------------------------------------------------------------------------------
 ## Executive Overview ##
 -----------------------------------------------------------------------------------------------------
+This project was quite tedious and pretty lengthy.  However, this was good practice for what the ETL
+process will look like in the real world.  In my opinion, I can see how regular expressions can aid 
+cleaning up columns.  The Pandas library was also useful in this project.
 
+Admittedly, I need more practice in using some of the transformation techniques demonstrated in this 
+project. 
 
-
-
-
-
-
-
+Below, I highlighted some of the techniques that I believe will be useful in the work environment.
 
 ----------------------------------------------------------------------------------------------------
 ## Skills Demonstrated ##
@@ -75,4 +75,7 @@
 ------------------------------------------------------------------------------------------
 > Connecting Pandas and SQL to load dataframe
 ------------------------------------------------------------------------------------------
-![]()
+![](https://github.com/GR8505/Movies-ETL/blob/master/Images/Load.png)
+
+
+------------------------------------------------------------------------------------------
