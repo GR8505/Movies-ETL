@@ -30,4 +30,15 @@
 
 > Worked on creating an empty dictionary, loops and perfomed column name consolidation
 
-![]()
+![](https://github.com/GR8505/Movies-ETL/blob/master/Images/Transformation2.png)
+
+
+> Performed cleaning techniques such as:
+1. Removal of duplicate rows
+2. Smart deletion of columns with high level of missing values
+3. Dropping of NA values
+4. Using lambda function
+
+![](https://github.com/GR8505/Movies-ETL/blob/master/Images/Transformation3.png)
+
+
