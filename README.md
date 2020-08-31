@@ -18,4 +18,10 @@
 
 > Extracted the Wikipedia Movies JSON and data from Kaggle
 
+![](https://github.com/GR8505/Movies-ETL/blob/master/Images/Extraction.png)
+
+---------------------------------------------------------------------------------------------------
+### _Transformation_ ###
+
+
 
