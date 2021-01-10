@@ -1,22 +1,33 @@
-# Movies-ETL
------------------------------------------------------------------------------------------------------
+# Movies Extract Transform Load (ETL)
+-------------------------
 ## Executive Overview ##
------------------------------------------------------------------------------------------------------
-This project was quite tedious and pretty lengthy.  However, this was good practice for what the ETL
-process will look like in the real world.  In my opinion, I can see how regular expressions can aid 
-cleaning up columns.  The Pandas library was also useful in this project.
+-------------------------
+This project was quite tedious and pretty lengthy.  However, this was a great example of what the ETL
+process looks like for most Data Scientist positions.  I will never forget my first Data Analytics lesson
+from Professor Gour Saha, _"Data is Dirty"_.  He couldn't be more accurate and while most analysts are
+chomping at the bit to perform all the sexy stuff like, data visuals and machine learning, ETL is vital 
+and this is the task that will take up most of our time.
 
-Admittedly, I need more practice in using some of the transformation techniques demonstrated in this 
-project. 
+In completing this assignment, I truly appreciated the use of regular expressions (RegEx) and functions in 
+creating an automated ETL pipeline.  Unsurprisingly, the Pandas library was also quite useful in this process.
+Admittedly, I definitely need more practice in using some of the transformation techniques demonstrated in 
+this project. However, I highlighted some of the techniques that I believe will be useful in the work 
+environment.
 
-Below, I highlighted some of the techniques that I believe will be useful in the work environment.
+-----------------
+## Objectives ##
+-----------------
+* Create an automated ETL pipeline
+* Extract movies data from multiple sources
+* Clean and transform the data automatically using Pandas and RegEx
+* Load new data into PostgreSQL
 
-----------------------------------------------------------------------------------------------------
-## Skills Demonstrated ##
-----------------------------------------------------------------------------------------------------
-### _Extraction_ ### 
-
-> Extracted the Wikipedia Movies JSON and data from Kaggle
+-----------
+## Data ## 
+-----------
+* Wikipedia data
+* Kaggle metadata
+* MovieLens rating data (from Kaggle)
 
 ![](https://github.com/GR8505/Movies-ETL/blob/master/Images/Extraction.png)
 
