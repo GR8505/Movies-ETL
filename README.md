@@ -39,14 +39,17 @@ environment.
 * SQLAlchemy
 * PostgreSQL
 
------------------
-## Extraction ##
------------------
+------------------
+## ETL Process ##
+------------------
+
+### Extraction ###
+
 This is how the data was [extracted](https://github.com/GR8505/Movies-ETL/blob/master/Images/Extraction.png).
 
----------------------
-## Transformation ##
----------------------
+
+### Transformation ###
+
 Used [list comprehension](https://github.com/GR8505/Movies-ETL/blob/master/Images/Transformation1.png) to filter data and  Pandas to convert movies file to a dataframe.
 
 Created an empty dictionary, loops and column name consolidation.
@@ -72,10 +75,15 @@ Performed other [cleaning techniques](https://github.com/GR8505/Movies-ETL/blob/
 1) to_numeric() method
 2) Pandas built-in datetime() function
 
---------------
-## Loading ##
---------------
+
+### Loading ###
 
 Connecting Pandas and SQL to [load](https://github.com/GR8505/Movies-ETL/blob/master/Images/Load.png) dataframe.
 
+-------------------
+View full [python code](https://github.com/GR8505/Movies-ETL/blob/master/Challenge.ipynb) for ETL-process
+
+
+
+-------------------
 
