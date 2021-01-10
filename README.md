@@ -50,7 +50,7 @@ This is how the data was [extracted](https://github.com/GR8505/Movies-ETL/blob/m
 Used [list comprehension](https://github.com/GR8505/Movies-ETL/blob/master/Images/Transformation1.png) to filter data and  Pandas to convert movies file to a dataframe.
 
 Created an empty dictionary, loops and column name consolidation.
-<img src="https://github.com/GR8505/Movies-ETL/blob/master/Images/Transformation2.png" alt="drawing" width="600"/>
+<img src="https://github.com/GR8505/Movies-ETL/blob/master/Images/Transformation2.png" alt="drawing" width="800"/>
 
 Performed [cleaning techniques](https://github.com/GR8505/Movies-ETL/blob/master/Images/Transformation3.png) such as:
 1. Removal of duplicate rows
@@ -66,24 +66,16 @@ Other cleaning techniques demonstrated:
 3) Creating new variables
 4) Converting lists to strings
 
-<img src="https://github.com/GR8505/Movies-ETL/blob/master/Images/Transformation5.png" alt="drawing" width="600"/>
+<img src="https://github.com/GR8505/Movies-ETL/blob/master/Images/Transformation5.png" alt="drawing" width="800"/>
 
-
-Performed other cleaning techniques, including:
+Performed other [cleaning techniques](https://github.com/GR8505/Movies-ETL/blob/master/Images/Transformation6.png), including:
 1) to_numeric() method
 2) Pandas built-in datetime() function
 
--------------------------------------------------------------------------------------------
-![](https://github.com/GR8505/Movies-ETL/blob/master/Images/Transformation6.png)
+--------------
+## Loading ##
+--------------
+
+Connecting Pandas and SQL to [load](https://github.com/GR8505/Movies-ETL/blob/master/Images/Load.png) dataframe.
 
 
--------------------------------------------------------------------------------------------
-### _Loading_ ###
-
-------------------------------------------------------------------------------------------
-> Connecting Pandas and SQL to load dataframe
-------------------------------------------------------------------------------------------
-![](https://github.com/GR8505/Movies-ETL/blob/master/Images/Load.png)
-
-
-------------------------------------------------------------------------------------------
