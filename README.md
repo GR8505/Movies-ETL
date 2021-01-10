@@ -46,10 +46,7 @@ This is how the data was [extracted](https://github.com/GR8505/Movies-ETL/blob/m
 ---------------------
 ## Transformation ##
 ---------------------
-Used list comprehension to filter data and used pandas to convert movies file to a dataframe.
-
-![](https://github.com/GR8505/Movies-ETL/blob/master/Images/Transformation1.png)
-
+Used [list comprehension](https://github.com/GR8505/Movies-ETL/blob/master/Images/Transformation1.png) to filter data and  Pandas to convert movies file to a dataframe.
 
 ---------------------------------------------------------------------------------------------------
 > Worked on creating an empty dictionary, loops and perfomed column name consolidation
