@@ -41,7 +41,7 @@ environment.
 -----------------
 ## Extraction ##
 -----------------
-![](https://github.com/GR8505/Movies-ETL/blob/master/Images/Extraction.png)
+This is how the data was [extracted](https://github.com/GR8505/Movies-ETL/blob/master/Images/Extraction.png).
 
 ---------------------
 ## Transformation ##
