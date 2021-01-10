@@ -29,6 +29,16 @@ environment.
 * Kaggle metadata
 * MovieLens rating data (from Kaggle)
 
+----------------
+## Resources ##
+----------------
+* Python
+* RegEx
+* Pandas
+* PostgreSQL
+
+
+
 ![](https://github.com/GR8505/Movies-ETL/blob/master/Images/Extraction.png)
 
 ---------------------------------------------------------------------------------------------------
