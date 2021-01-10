@@ -35,18 +35,19 @@ environment.
 * Python
 * RegEx
 * Pandas
+* SQLAlchemy
 * PostgreSQL
 
-
-
+-----------------
+## Extraction ##
+-----------------
 ![](https://github.com/GR8505/Movies-ETL/blob/master/Images/Extraction.png)
 
----------------------------------------------------------------------------------------------------
-### _Transformation_ ###
+---------------------
+## Transformation ##
+---------------------
+Used list comprehension to filter data and used pandas to convert movies file to a dataframe.
 
----------------------------------------------------------------------------------------------------
-> Used list comprehension to filter data and used pandas to convert movies file to a dataframe.
----------------------------------------------------------------------------------------------------
 ![](https://github.com/GR8505/Movies-ETL/blob/master/Images/Transformation1.png)
 
 
